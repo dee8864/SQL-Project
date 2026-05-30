@@ -82,3 +82,17 @@ Here are the 10 tasks implemented in the script:
 3. Create a new database (optional):
    ```sql
    CREATE DATABASE employee_db;
+
+What I Learned
+Using ALTER TABLE to modify schema without losing data.
+
+Importance of WHERE clauses in UPDATE and DELETE.
+
+Type conversion in PostgreSQL (ALTER COLUMN ... TYPE).
+
+Maintaining data integrity with CHECK constraints.
+
+Writing clear, readable SQL scripts.
+
+🤝 Connect
+Feel free to use this project as a template for your own SQL practice. If you have suggestions or improvements, open an issue or submit a pull request.
