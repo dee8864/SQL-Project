@@ -2,7 +2,7 @@
 
 This project is a hands-on SQL exercise built with **PostgreSQL**. It covers fundamental database operations such as creating tables, inserting data, updating records, altering schemas, and writing queries to retrieve and manipulate employee data. The project is ideal for beginners learning SQL or anyone looking to refresh core database concepts.
 
-## 📌 Project Overview
+## Project Overview
 
 The main goal is to manage an `employees` table and perform common administrative and analytical tasks. The project includes:
 
@@ -11,19 +11,19 @@ The main goal is to manage an `employees` table and perform common administrativ
 - 10 SQL tasks ranging from simple `SELECT` queries to schema alterations
 - Practical use of `UPDATE`, `DELETE`, `ALTER TABLE`, and `ORDER BY`
 
-## 🛠️ Technologies Used
+## Technologies Used
 
 - **PostgreSQL** – relational database management system
 - **SQL** – structured query language
 
-## 📁 Files in the Repository
+## Files in the Repository
 
 | File | Description |
 |------|-------------|
 | `SQL PROJECT.sql` | Complete SQL script: table creation, sample data, and solutions to all 10 questions |
 | `Project Questions for SQL.docx` | Problem statement listing each task |
 
-## 🗃️ Database Schema
+## Database Schema
 
 The `employees` table contains the following columns:
 
@@ -39,7 +39,7 @@ The `employees` table contains the following columns:
 
 Later modifications (questions 4, 5, 7) add an `email` column, rename `department` to `dept_name`, and change `salary` type to `INTEGER`.
 
-## 📋 Tasks & Solutions
+## Tasks & Solutions
 
 Here are the 10 tasks implemented in the script:
 
@@ -73,7 +73,7 @@ Here are the 10 tasks implemented in the script:
 10. **Update** age of every employee by +1.  
     `UPDATE employees SET age = age + 1;`
 
-## ▶️ How to Run the Project
+## How to Run the Project
 
 1. **Install PostgreSQL** (if not already installed).
 2. Open **pgAdmin** or the **psql** command line.
