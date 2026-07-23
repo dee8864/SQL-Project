@@ -1,4 +1,4 @@
-# SQL Practice Project – Employee Management
+# SQL Project – Employee Management
 
 This project is a hands-on SQL exercise built with **PostgreSQL**. It covers fundamental database operations such as creating tables, inserting data, updating records, altering schemas, and writing queries to retrieve and manipulate employee data. The project is ideal for beginners learning SQL or anyone looking to refresh core database concepts.
 
